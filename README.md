@@ -14,4 +14,4 @@
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/sandeshpdj)
 
 ### Langauges and Tools:
-[![My Skills](https://skillicons.dev/icons?i=cpp,go,python,html,css,django,fastapi,flask,git,js,react,nodejs,postgres,aws,sqlite,linux,ubuntu,opencv,qt&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,go,python,html,css,django,fastapi,flask,git,js,react,nodejs,express,postgres,aws,sqlite,linux,ubuntu,opencv,qt&perline=5)](https://skillicons.dev)
