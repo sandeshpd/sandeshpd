@@ -1,7 +1,7 @@
 # Hi, I’m Sandesh. 👋
 - I like to watch and to learn about Cloud ☁️
-- I ```<talk/>``` to computers in some languages.
-- Those langugaes are: **Python, C++, Go, JavaScript**
+- I can ```<talk/>``` to computers in different languages.
+- Those languages are: **Python, C++, Go, JavaScript**
 - Trying to be a better Problem Solver and a Software Engineer.
 - ... and the transient wayfarer on this great journey of life.
 - Also I love cats 🐈
