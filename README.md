@@ -10,7 +10,7 @@
 ### Connect with me:
 [![Github](https://skillicons.dev/icons?i=github)](https://github.com/sandeshpd)
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:sandeshdha26@hotmail.com)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sandesh-dhaman-2411-n/)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/sandeshdhamangaonkar/)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://x.com/sandeshpdj)
 
 ### Langauges and Tools:
